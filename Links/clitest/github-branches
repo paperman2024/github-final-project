@@ -1,4 +1,4 @@
-theia@theia-moritzschrad:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+git branch -vv
 * bug-fix-revert 04c75bc [origin/bug-fix-revert] Revert "fix: fixed typo in README"
   bug-fix-typo   c1196ff [origin/bug-fix-typo] fix: fixed typo in README
   main           9c0d91d [origin/main: ahead 3] Revert "Revert "fix: fixed typo in README""
